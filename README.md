@@ -1,1 +1,1 @@
-# databse-password-hashes
+# database-password-hashes
